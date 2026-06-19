@@ -1,0 +1,1 @@
+# AI-Based-Machine-Fault-Prediction-and-Alert-System-STM32-
